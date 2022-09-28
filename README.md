@@ -1,6 +1,6 @@
 # Lyrics inspiration creator
 
-[Github-Pages-Link](https://mhiho.github.io/lyrics-inspiration/)
+Link to on-line app: https://mhiho.github.io/lyrics-inspiration/
 
 ## Application uses:
 
