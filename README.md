@@ -1,6 +1,6 @@
 # Lyrics inspiration creator
 ``` 
-https://mhiho.github.io/lyrics-inspiration/
+[Github-Pages-Link](https://mhiho.github.io/lyrics-inspiration/)
 ```
 ## Application uses:
 
