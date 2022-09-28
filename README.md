@@ -1,7 +1,7 @@
 # Lyrics inspiration creator
-``` 
+
 [Github-Pages-Link](https://mhiho.github.io/lyrics-inspiration/)
-```
+
 ## Application uses:
 
 - OpenAI from https://beta.openai.com/
