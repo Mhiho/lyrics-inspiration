@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mhiho/lyrics-inspiration/static/css/main.b6d55a21.css",
-    "main.js": "/Mhiho/lyrics-inspiration/static/js/main.13d34e95.js",
-    "static/js/787.328f7792.chunk.js": "/Mhiho/lyrics-inspiration/static/js/787.328f7792.chunk.js",
-    "index.html": "/Mhiho/lyrics-inspiration/index.html",
-    "main.b6d55a21.css.map": "/Mhiho/lyrics-inspiration/static/css/main.b6d55a21.css.map",
-    "main.13d34e95.js.map": "/Mhiho/lyrics-inspiration/static/js/main.13d34e95.js.map",
-    "787.328f7792.chunk.js.map": "/Mhiho/lyrics-inspiration/static/js/787.328f7792.chunk.js.map"
+    "main.css": "/lyrics-inspiration/static/css/main.b6d55a21.css",
+    "main.js": "/lyrics-inspiration/static/js/main.27a47226.js",
+    "static/js/787.328f7792.chunk.js": "/lyrics-inspiration/static/js/787.328f7792.chunk.js",
+    "index.html": "/lyrics-inspiration/index.html",
+    "main.b6d55a21.css.map": "/lyrics-inspiration/static/css/main.b6d55a21.css.map",
+    "main.27a47226.js.map": "/lyrics-inspiration/static/js/main.27a47226.js.map",
+    "787.328f7792.chunk.js.map": "/lyrics-inspiration/static/js/787.328f7792.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6d55a21.css",
-    "static/js/main.13d34e95.js"
+    "static/js/main.27a47226.js"
   ]
 }
